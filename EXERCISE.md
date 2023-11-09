@@ -1,7 +1,8 @@
 # Table of Sections
 
 1. [Activity 1: New Developer on the Project](#activity-1-new-developer-on-the-project)
-    1. [Start Copilot Chat in GitHub](#start-copilot-chat-in-github)
+    1. [Start Copilot Chat in GitHub](#start-copilot-github-copilot-cli -V
+chat-in-github)
     2. [Get Familiar with the Project](#get-familiar-with-the-project)
     3. [Explore Copilot in the CLI inside Codespaces](#explore-copilot-in-the-cli-inside-codespaces)
     4. [Checking data file attached to MongoDB](#checking-data-file-attached-to-mongodb)
